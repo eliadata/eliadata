@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi, I'm Elia Tiso ✨
 
+B.Sc. in Mathematics ✌ | M.Sc. student in Data Science 🤝 | Walking lover 🚶‍♂️
+
+## Languages adn tools
+
+Python >> Matlab > R
+
+<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+
+
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
 <!--
 **eliadata/eliadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
