@@ -36,7 +36,7 @@
 
 - 👨‍💻 **STEM Tutor**\
 📆 09/2024 - 11/2024\
-🗒 Tutor within training courses in teh STEM field (ENVIRONMENTAL BIOMONITORING, CODING with SCRATCH)\
+🗒 Tutor within training courses in the STEM field (ENVIRONMENTAL BIOMONITORING, CODING with SCRATCH)\
 📍 **I.C. Muttoni** - Sarego, Italy
 </details>
 
@@ -45,7 +45,6 @@
   
 - ⛰ Orienteering, walking, mountains
 - 🎮 League of Legends
-- 🍽 Most places
 </details>
 
 ## Languages and tools
