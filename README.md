@@ -37,7 +37,7 @@
 - 👨‍💻 **STEM Tutor**\
 📆 09/2024 - 11/2024\
 🗒 Tutor within training courses in the STEM field (ENVIRONMENTAL BIOMONITORING, CODING with SCRATCH)\
-📍 **I.C. Muttoni** - Sarego, Italy
+📍 **I.C. Muttoni** - Sarego, Italy\
 📆 09/2024 - 11/2024\
 🗒 Tutor within training courses in the STEM field (MICROSCOPY)\
 📍 **I.S. Atestino** - Este, Italy
