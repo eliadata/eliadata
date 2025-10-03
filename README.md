@@ -2,7 +2,7 @@
 
 ## Profile
 
-**TL;DR:** B.Sc. in Mathematics | M.Sc. student in Data Science | Walking
+**TL;DR:** B.Sc. in Mathematics | M.Sc. in Data Science | PhD student in Genomics
 
 <details>
 <summary>📃 CV </summary>
@@ -17,8 +17,9 @@
 
 - 📖 **Data Science (Biological Data ANalysis)**\
 🕶 *Master (EQF 7)*\
-📆 2023 - present\
-📍 **University of Padua** - Padua, Italy
+📆 2023 - 2025\
+📍 **University of Padua** - Padua, Italy\
+📋 *Thesis: [Application of spherical variational autoencoders to human population genetic structure](https://thesis.unipd.it/handle/20.500.12608/89823)*
 
 ## Experience
 
